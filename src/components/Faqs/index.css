@@ -1,0 +1,27 @@
+/* Write your code here. */
+
+.bg-container {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.faq-container {
+  background-color: #ffffff;
+  width: 90%;
+  margin-top: 64px;
+  border-radius: 10px;
+}
+.heading {
+  color: #cb8805;
+  font-family: 'Roboto';
+  font-size: 45px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 30px;
+}
+.list {
+  list-style-type: none;
+}
